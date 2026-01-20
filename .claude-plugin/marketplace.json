@@ -11,7 +11,7 @@
   },
   "plugins": [
     {
-      "name": "review",
+      "name": "coderabbit",
       "description": "AI-powered code reviews and insights",
       "source": "./",
       "category": "code-review",

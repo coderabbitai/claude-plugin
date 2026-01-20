@@ -19,14 +19,14 @@ In Claude Code:
 
 ```bash
 /plugin marketplace add coderabbitai/claude-plugin
-/plugin install review@coderabbit
+/plugin install coderabbit
 ```
 
 Or via CLI:
 
 ```bash
 claude plugin marketplace add coderabbitai/claude-plugin
-claude plugin install review@coderabbit
+claude plugin install coderabbit
 ```
 
 ## Usage
