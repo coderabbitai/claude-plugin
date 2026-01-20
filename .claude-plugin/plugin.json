@@ -1,7 +1,8 @@
 {
-  "name": "coderabbit",
+  "name": "review",
   "version": "1.0.0",
   "description": "AI-powered code review in Claude Code, powered by CodeRabbit",
+  "homepage": "https://docs.coderabbit.ai/cli/claude-code-integration",
   "author": {
     "name": "CodeRabbit AI",
     "email": "support@coderabbit.ai",

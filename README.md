@@ -61,7 +61,7 @@ You can also just ask Claude:
 ## Resources
 
 - [CodeRabbit Documentation](https://coderabbit.ai/docs)
-- [CodeRabbit CLI Guide](https://docs.coderabbit.ai/guides/cli)
+- [CodeRabbit CLI Guide](https://docs.coderabbit.ai/cli/overview)
 
 ## License
 
