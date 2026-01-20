@@ -1,0 +1,18 @@
+{
+  "name": "coderabbit",
+  "version": "1.0.0",
+  "description": "AI-powered code review in Claude Code, powered by CodeRabbit",
+  "author": {
+    "name": "CodeRabbit AI",
+    "email": "support@coderabbit.ai",
+    "url": "https://coderabbit.ai"
+  },
+  "repository": "https://github.com/coderabbitai/claude-plugin",
+  "license": "MIT",
+  "keywords": [
+    "code-review",
+    "ai",
+    "coderabbit",
+    "claude-code"
+  ]
+}
