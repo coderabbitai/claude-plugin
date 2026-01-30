@@ -2,6 +2,9 @@
 
 AI-powered code review in Claude Code, powered by [CodeRabbit](https://coderabbit.ai).
 
+Available on the [Claude Code Plugin Marketplace](https://code.claude.com/docs/en/discover-plugins).
+Also available for [35+ coding agents](https://github.com/coderabbitai/skills).
+
 ## Installation
 
 ### 1. Prerequisites
@@ -15,17 +18,17 @@ coderabbit auth login
 
 ### 2. Install Plugin
 
+This plugin is live on the official Claude Code Plugin Marketplace. Find it in Claude Code under **Plugins → Discover**, search `coderabbit` directly:
+
 In Claude Code:
 
 ```bash
-/plugin marketplace add coderabbitai/claude-plugin
 /plugin install coderabbit
 ```
 
 Or via CLI:
 
 ```bash
-claude plugin marketplace add coderabbitai/claude-plugin
 claude plugin install coderabbit
 ```
 
@@ -62,6 +65,7 @@ You can also just ask Claude:
 
 - [CodeRabbit Documentation](https://coderabbit.ai/docs)
 - [CodeRabbit CLI Guide](https://docs.coderabbit.ai/cli/overview)
+- [CodeRabbit Skills](https://github.com/coderabbitai/skills) - Install to 35+ coding agents
 
 ## License
 
