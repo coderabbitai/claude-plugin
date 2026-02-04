@@ -23,12 +23,14 @@ This plugin is live on the official Claude Code Plugin Marketplace. Find it in C
 In Claude Code:
 
 ```bash
+/plugin marketplace update  #refresh marketplace
 /plugin install coderabbit
 ```
 
 Or via CLI:
 
 ```bash
+claude plugin marketplace update    # refresh marketplace
 claude plugin install coderabbit
 ```
 
